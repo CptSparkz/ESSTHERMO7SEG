@@ -1,0 +1,1 @@
+"./Blink_Task.obj" "./I2Ctask.obj" "./StartBIOS.obj" "./UART_Task.obj" "./TM4C1294XL/EK_TM4C1294XL.obj" "../EK_TM4C1294XL.cmd" -l"./configPkg/linker.cmd" -l"libc.a" -l"C:/ti/tirtos_tivac_2_14_00_10/products/TivaWare_C_Series-2.1.1.71b/driverlib/ccs/Debug/driverlib.lib" 
